@@ -1,0 +1,2 @@
+adafruit-ads1x15
+pynmea2
